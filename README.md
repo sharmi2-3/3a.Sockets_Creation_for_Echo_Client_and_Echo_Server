@@ -33,9 +33,14 @@ while True:
 ```
 ## OUPUT
 client
-![image](https://github.com/user-attachments/assets/19b51d35-3bf8-4f78-9e96-8d597aa6b08f)
+
+![Screenshot 2025-05-09 155743](https://github.com/user-attachments/assets/c00d56ae-1860-4caa-aea6-d79a606fbbc9)
+
 server
-![image](https://github.com/user-attachments/assets/d9b4ef85-fe1b-4c54-944b-f8effbdcbd44)
+
+![Screenshot 2025-05-09 155818](https://github.com/user-attachments/assets/8da7ab8a-1b9c-47fa-8307-4a3525436ec5)
+
+
 
 
 ## RESULT
